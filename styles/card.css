@@ -1,0 +1,7 @@
+*{
+    /*resentando as configurações do navegador*/
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'segoe UI', sans-serif;/*colocando uma fonte*/
+}
